@@ -1,0 +1,15 @@
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\bin\Debug\net6.0\Cadastro-Pessoas-UC9.exe
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\bin\Debug\net6.0\Cadastro-Pessoas-UC9.deps.json
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\bin\Debug\net6.0\Cadastro-Pessoas-UC9.runtimeconfig.json
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\bin\Debug\net6.0\Cadastro-Pessoas-UC9.dll
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\bin\Debug\net6.0\Cadastro-Pessoas-UC9.pdb
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.csproj.AssemblyReference.cache
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.AssemblyInfoInputs.cache
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.AssemblyInfo.cs
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.csproj.CoreCompileInputs.cache
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.dll
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\refint\Cadastro-Pessoas-UC9.dll
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.pdb
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\Cadastro-Pessoas-UC9.genruntimeconfig.cache
+C:\Users\iqmai\Desktop\uc8\encontro-remoto2-UC9\Cadastro-Pessoas-UC9\obj\Debug\net6.0\ref\Cadastro-Pessoas-UC9.dll
